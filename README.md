@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Eric e eu sou um técnico em informática para internet pelo Instituto Federal Baiano de Guanambi, na Bahia.</p>
+<p align="left">Me chamo Eric e eu sou um técnico (formando) em informática para internet pelo Instituto Federal Baiano de Guanambi, na Bahia.</p>
 
 ###
 
@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
   <img width="12" />
