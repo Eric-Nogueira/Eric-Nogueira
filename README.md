@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Eric e eu sou um técnico (formando) em informática para internet pelo Instituto Federal Baiano de Guanambi, na Bahia.</p>
+<p align="left">Me chamo Eric e eu sou um técnico (cursando) em informática para internet pelo Instituto Federal Baiano de Guanambi, na Bahia.</p>
 
 ###
 
